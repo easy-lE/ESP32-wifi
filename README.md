@@ -32,5 +32,6 @@ Procedimiento:
 Armado de circuito Esp32 y FTDI
 Codificación en Arduino con el archivo proporcionado
 Modificación y ejecución del programa
-Archivo: 
+Archivo: "mqtt_jul31a.ino"
+Evidencias: 
 
