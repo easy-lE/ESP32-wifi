@@ -9,7 +9,7 @@ Procedimiento:
 Armado de circuito Esp32 y FTDI
 Codificación en Arduino 
 Ejecución del programa 
-Archivo: "Flash"
+Archivo: "Flash_jul28a.ino"
 
 // Segundo trabajo
 FECHA: 28 de julio 2021
